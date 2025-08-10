@@ -33,7 +33,7 @@ TopnotchChat is a modern, AI-powered search engine built with React, TypeScript,
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/smartThinkFaruk/search-engine.git
+   git clone https://github.com/Farukcoder/search-engine.git
    cd search-engine
    ```
 
@@ -145,7 +145,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with setup, please:
 
-1. Check the [Issues](https://github.com/smartThinkFaruk/search-engine/issues) page
+1. Check the [Issues](https://github.com/Farukcoder/search-engine/issues) page
 2. Create a new issue if your problem isn't already addressed
 3. Provide detailed information about your environment and the issue
 
@@ -159,4 +159,4 @@ If you have any questions or need help with setup, please:
 
 ---
 
-**Made with ❤️ by [smartThinkFaruk](https://github.com/smartThinkFaruk)**
+**Made with ❤️ by [Farukcoder](https://github.com/Farukcoder)**
